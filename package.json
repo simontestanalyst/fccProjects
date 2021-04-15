@@ -1,6 +1,7 @@
 {
 	"author": "simontestanalyst",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Free Code Camp NPM Challenges",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
